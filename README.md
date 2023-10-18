@@ -1,5 +1,5 @@
 # DailyCafe
-## 簡介
+## 作品說明
 手刻RWD響應式網頁 <br>
 手刻CSS navbar <br>
 多頁式網頁 <br>
