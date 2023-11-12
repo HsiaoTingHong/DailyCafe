@@ -1,4 +1,7 @@
 # DailyCafe
+![image](https://github.com/HsiaoTingHong/DailyCafe/assets/139849443/77cf0c4d-e797-4527-a659-8c5aa6903d6f)
+<br>
+
 ## 作品說明
 手刻RWD響應式網頁 <br>
 手刻CSS navbar <br>
